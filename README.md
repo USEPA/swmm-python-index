@@ -4,8 +4,8 @@
 
 ## Contents
 
-- (nrtest)[./nrtest]
+- [nrtest](./nrtest)
 
-- (nrtest-swmm)[./nrtest-swmm]
+- [nrtest-swmm](./nrtest-swmm)
 
-- (swmm-toolkit)[./swmm-toolkit]
+- [swmm-toolkit](./swmm-toolkit)
